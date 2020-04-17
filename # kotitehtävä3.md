@@ -8,4 +8,5 @@ d) **Komennot**:
 
 **git diff** = näyttää tiedostojen sisällä tehdyt muutokset
 
-**git blame** = 
+**git blame** = komento näyttää kuka teki tiedostoon muutokset, kuka muutti tiedoston rivit ja miksi
+
