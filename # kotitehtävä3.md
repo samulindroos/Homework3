@@ -1,10 +1,12 @@
 # kotitehtävä3
 
+# 
+
 a) Latasimme Typoran ja teimme tekstitiedoston. Tutustuimme Typoraan ja jatkoimme tehtävää.
 
+# d) Näytä omalla git-varastollasi esimerkit komennoista ‘git log’, ‘git diff’ ja ‘git blame’. Selitä tulokset.
 
-
-d) **Komennot**:
+Komennot:
 
 ***git log*** = komento näyttää tiedoston lokitiedot, esim: tekijän nimi, sähköposti, milloin tiedosto on tehty
 
@@ -14,5 +16,5 @@ d) **Komennot**:
 
 
 
-e) Tein tahallaan turhan muutoksen gittiin, jonka jälkeen tein komennon ***git reset --hard***, joka tuhosi huonot muutokset ja haki viimeisen tallennettun version githubista. 
+e) Tein tahallaan turhan muutoksen gittiin, jonka jälkeen tein komennon ***git reset --hard***, joka tuhosi huonot muutokset ja haki viimeisen tallennettun version githubista.
 
